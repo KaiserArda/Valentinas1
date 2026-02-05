@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Chào cậu, tớ có điều muốn nói. </br> Làm người yêu tớ nhé!",
+  titleHeader: "Hi, I have something to tell you. </br>  Thank you for making today special for me.",
   descriptionHeader:
-    "Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã ĐỒNG Ý.",
-  buttonYes: "Tớ đồng ý",
-  buttonNo: "Không đồng ý",
-  titleModar: "Cảm ơn cậu.",
+    "I want to create more memories with you. Do you agree? :)",
+  buttonYes: "Do you accept?",
+  buttonNo: "Do you reject?",
+  titleModar: "Thank you",
   descriptionModar:
-    "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cậu. </br> Tớ biết tớ không được đẹp trai, cũng chẳng lắm tài nhưng tớ có một trái tim chân thành. Cậu chính là cả thế giới của tớ. </br> Tối nay tớ sẽ đến đón cậu. Cậu mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho cậu.</br> Love you <3",
+    "Thank you for giving me the chance to be by your side, to protect you and to love you. </br> I know I'm not very handsome, maybe I'm not very good with girls, but I have a sincere heart. You are my WORLD </br> Even though I can't be with you tonight, my heart is with you. Just know that I'm thinking of you. Dress nicely for yourself, and when you look in the mirror, remember how much I love you. I have a little surprise for you, when the time is right.</br> Love you <3",
 };
