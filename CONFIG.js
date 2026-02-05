@@ -1,7 +1,7 @@
 const CONFIGDATA = {
   titleHeader: "Hi, I have something to tell you. </br>  Thank you for making today special for me.",
   descriptionHeader:
-    "I want to create more memories with you. Do you agree? :)",
+    "I want to create more memories with you. Do you agree? :).....",
   buttonYes: "Do you accept?",
   buttonNo: "Do you reject?",
   titleModar: "Thank you",
